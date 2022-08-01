@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "braze-swift-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/braze-inc/braze-swift-sdk",
+      "state" : {
+        "revision" : "fe77b8132dc3e5ee87ff42adee6c8070ae484d03",
+        "version" : "5.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
