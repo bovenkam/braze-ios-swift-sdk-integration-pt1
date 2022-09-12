@@ -17,14 +17,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
-        
-        // Insert Braze instance configuration here
-        
-        
+
+        // Insert logging information here
+       
         // Insert custom configuration here
         
-    
-        // Insert logging information here
+        // Insert Braze instance configuration here
+
         
     
         return true
